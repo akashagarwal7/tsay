@@ -1,0 +1,4 @@
+#!/bin/bash
+say 'Master, the terminal process has been completed!'
+now=$(date +"%T")
+echo 'Completed at:' $now
