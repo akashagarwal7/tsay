@@ -6,7 +6,7 @@ Installation:
 `brew install akashaggarwal7/tools/tsay`  
 Usage example:  
 `sleep 5; tsay // Switch active window to see the bounce effect`  
-`brew install formula && tsay`  
+`brew install formula; tsay`  
 
 If you already have the tsay installed and wish to upgrade to the latest version, run:  
 `brew upgrade tsay`
