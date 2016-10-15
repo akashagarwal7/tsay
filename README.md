@@ -11,4 +11,8 @@ Usage example:
 If you already have the tsay installed and wish to upgrade to the latest version, run:  
 `brew upgrade tsay`
 
-And tsay will play a nice speech text, bounce the terminal icon in dock and display the completion time of the command appended in the window.
+And tsay will play a nice speech text, bounce the terminal icon in dock and display the completion time of the command appended in the window.  
+
+--
+Make sure to watch the project because I'll be throwing in improvements whenever I can.  
+Feel free to fork!
