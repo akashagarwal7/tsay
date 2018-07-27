@@ -3,7 +3,7 @@ Simple speech alert, UI icon bounce alert and displaying completion time when a 
 
 You don't have to keep hopping back to terminal to check if a long process like `brew install formula` is completed. 
 Installation:  
-`brew install akashaggarwal7/tools/tsay`  
+`brew install akashagarwal7/tools/tsay`  
 Usage example:  
 `sleep 5; tsay // Switch active window to see the bounce effect`  
 `brew install formula; tsay`  
