@@ -6,9 +6,9 @@ You don't have to keep hopping back to terminal to check if a long process like 
 ## Installation:
 `brew install akashagarwal7/tools/tsay`
 
-## Usage example:
-`sleep 5; tsay // Switch active window to see the bounce effect`
-`brew install formula; tsay`
+## Usage examples:
+`sleep 5; tsay // Switch active window to see the bounce effect`  
+`brew install <formula>; tsay`
 
 tsay will play a nice speech text, bounce the terminal icon in dock and display the completion time of the command appended in the window.  
 
