@@ -12,6 +12,12 @@ No more hopping back to terminal every now and then to check if a long running p
 
 `tsay` will play a nice speech text, bounce the terminal icon in dock and display the completion time of the command appended in the window.  
 
+
+It is also possible to pass in a parameter to override the default text to speech.
+
+`tsay "command complete"`
+
+
 ## Upgrading
 To upgrade `tsay` to the latest version, run:
 `brew upgrade tsay`
