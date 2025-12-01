@@ -10,12 +10,13 @@ No more hopping back to terminal every now and then to check if a long running p
 `sleep 5; tsay // Switch active window to see the bounce effect`  
 `brew install <formula>; tsay`
 
-`tsay` will play a nice speech text, bounce the terminal icon in dock and display the completion time of the command appended in the window.  
+`tsay` will play a nice speech text, bounce the terminal icon in dock and display "tsay | Execution finished at: <time>" in the window.  
 
 
-It is also possible to pass in a parameter to override the default text to speech.
+It is also possible to pass in parameters to override the default text to speech. You can pass any `say` command options and text.
 
-`tsay "command complete"`
+`tsay "command complete"`  
+`tsay -v "Whisper" -r "240" "custom message"`
 
 
 ## Upgrading
