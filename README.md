@@ -21,3 +21,7 @@ It is also possible to pass in a parameter to override the default text to speec
 ## Upgrading
 To upgrade `tsay` to the latest version, run:
 `brew upgrade tsay`
+
+## Development
+
+The homebrew tap can be found here: https://github.com/akashagarwal7/homebrew-tools
