@@ -1,11 +1,11 @@
 #!/bin/bash
 tput bel
 now=$(date +"%T")
-echo 'Completed at:' $now
+echo 'tsay | Execution finished at:' $now
 
-if ! [ -z "$1" ]
+if [ $# -gt 0 ]
 then
-    say "$1"
+    say "$@"
 else
-    say 'The terminal process has been completed!'
+    say -r "220" "The terminal process has been completed!"
 fi
